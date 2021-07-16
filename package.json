@@ -4,7 +4,9 @@
     "description": "A VSCode Theme for dark and simple users",
     "author": {"name": "Hugh He","email": "plsuhugh@gmail.com"},
     "publisher": "plushugh",
+    "repository": {"type": "git", "url": "https://github.com/plushugh/plus-pro"},
     "version": "0.0.1",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.58.0"
     },
