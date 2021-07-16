@@ -1,0 +1,23 @@
+{
+    "name": "plus-pro",
+    "displayName": "plus-pro",
+    "description": "A VSCode Theme for dark and simple users",
+    "author": {"name": "Hugh He","email": "plsuhugh@gmail.com"},
+    "publisher": "plushugh",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Plus Pro",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Plus Pro-color-theme.json"
+            }
+        ]
+    }
+}
